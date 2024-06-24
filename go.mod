@@ -1,4 +1,4 @@
-module golang-exporter
+module github.com/rodolfo-mora/golang-exporter
 
 go 1.21.5
 
